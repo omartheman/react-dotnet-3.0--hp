@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using React;
 
 namespace react_dotnet_3._0__hp
 {
@@ -11,7 +12,6 @@ namespace react_dotnet_3._0__hp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
         }
     }
 }

@@ -2,6 +2,8 @@ using React;
 
 [assembly: WebActivatorEx.PreApplicationStartMethod(typeof(react_dotnet_3._0__hp.ReactConfig), "Configure")]
 
+
+
 namespace react_dotnet_3._0__hp
 {
 	public static class ReactConfig
@@ -26,3 +28,4 @@ namespace react_dotnet_3._0__hp
 		}
 	}
 }
+
